@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Task\Task01_26\obj\Debug\net6.0\Task01_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Task\Task01_26\obj\Debug\net6.0\Task01_26.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Task\Task01_26\obj\Debug\net6.0\Task01_26.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Task\Task01_26\obj\Debug\net6.0\Task01_26.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Task\Task01_26\bin\Debug\net6.0\Task01_26.exe
+C:\Users\Murad\Desktop\Task\Task01_26\bin\Debug\net6.0\Task01_26.deps.json
+C:\Users\Murad\Desktop\Task\Task01_26\bin\Debug\net6.0\Task01_26.runtimeconfig.json
+C:\Users\Murad\Desktop\Task\Task01_26\bin\Debug\net6.0\Task01_26.dll
+C:\Users\Murad\Desktop\Task\Task01_26\bin\Debug\net6.0\Task01_26.pdb
+C:\Users\Murad\Desktop\Task\Task01_26\obj\Debug\net6.0\Task01_26.dll
+C:\Users\Murad\Desktop\Task\Task01_26\obj\Debug\net6.0\refint\Task01_26.dll
+C:\Users\Murad\Desktop\Task\Task01_26\obj\Debug\net6.0\Task01_26.pdb
+C:\Users\Murad\Desktop\Task\Task01_26\obj\Debug\net6.0\Task01_26.genruntimeconfig.cache
+C:\Users\Murad\Desktop\Task\Task01_26\obj\Debug\net6.0\ref\Task01_26.dll
