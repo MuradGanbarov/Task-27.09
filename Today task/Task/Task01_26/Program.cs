@@ -26,7 +26,7 @@
 //    Console.WriteLine("Digits without difference");
 //}
 
-//Task 3 code was writted by me
+//Task 3 code was written by me
 
 //int a = int.Parse(Console.ReadLine());
 //int b = int.Parse(Console.ReadLine());
@@ -35,7 +35,7 @@
 //Console.WriteLine("a =" = a);
 //Console.WriteLine("b =" = b);
 
-//Task 3 code writted with google's help
+//Task 3 code written with google's help
 //Console.WriteLine("input a digit");
 //int a = Convert.ToInt32(Console.ReadLine());
 //Console.WriteLine("input b digit");
@@ -52,24 +52,24 @@
 //Console.WriteLine("b: " + b);
 
 //Task 4
-Console.WriteLine("Please input your age");
-byte age = byte.Parse(Console.ReadLine());
-Console.WriteLine("Do you have student id?");
-bool student_id = bool.Parse(Console.ReadLine());
+//Console.WriteLine("Please input your age");
+//byte age = byte.Parse(Console.ReadLine());
+//Console.WriteLine("Do you have student id?");
+//bool student_id = bool.Parse(Console.ReadLine());
 
-if (age <= 12 || age >= 60)
-{
-    Console.WriteLine("Price for your ticket is 5 AZN and you have discount");
-}
+//if (age <= 12 || age >= 60)
+//{
+//    Console.WriteLine("Price for your ticket is 5 AZN and you have discount");
+//}
 
-else if (age >= 13 && age <= 59)
-{
-    if (student_id)
-    {
-        Console.WriteLine("Price for your ticket is 7.5 AZN");
-    }
-    else
-    {
-        Console.WriteLine("Price for your ticket is 10 AZN and you have no discount");
-    }
-}
+//else if (age >= 13 && age <= 59)
+//{
+//    if (student_id)
+//    {
+//        Console.WriteLine("Price for your ticket is 7.5 AZN");
+//   }
+//    else
+//    {
+//        Console.WriteLine("Price for your ticket is 10 AZN and you have no discount");
+//    }
+//}
