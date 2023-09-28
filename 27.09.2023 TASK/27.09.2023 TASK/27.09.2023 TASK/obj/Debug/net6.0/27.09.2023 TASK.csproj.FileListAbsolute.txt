@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\obj\Debug\net6.0\27.09.2023 TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\obj\Debug\net6.0\27.09.2023 TASK.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\obj\Debug\net6.0\27.09.2023 TASK.AssemblyInfo.cs
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\obj\Debug\net6.0\27.09.2023 TASK.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\bin\Debug\net6.0\27.09.2023 TASK.exe
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\bin\Debug\net6.0\27.09.2023 TASK.deps.json
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\bin\Debug\net6.0\27.09.2023 TASK.runtimeconfig.json
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\bin\Debug\net6.0\27.09.2023 TASK.dll
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\bin\Debug\net6.0\27.09.2023 TASK.pdb
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\obj\Debug\net6.0\27.09.2023 TASK.dll
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\obj\Debug\net6.0\refint\27.09.2023 TASK.dll
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\obj\Debug\net6.0\27.09.2023 TASK.pdb
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\obj\Debug\net6.0\27.09.2023 TASK.genruntimeconfig.cache
+C:\Users\Murad\Desktop\27.09.2023 TASK\27.09.2023 TASK\27.09.2023 TASK\obj\Debug\net6.0\ref\27.09.2023 TASK.dll
